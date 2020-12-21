@@ -1,6 +1,6 @@
 {
   "name": "canberk-playground",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "In order to test some of my automation tools which are open source, I have created this package.",
   "main": "index.js",
   "author": "Canberk Sinangil",
