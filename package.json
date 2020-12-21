@@ -3,9 +3,6 @@
   "version": "0.0.2",
   "description": "In order to test some of my automation tools which are open source, I have created this package.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Canberk Sinangil",
   "license": "ISC",
   "repository": "github:canberksinangil/canberk-playground"
